@@ -1,2 +1,2 @@
-# awsml
-AWSML is easy to use!
+# Just for easy use of SageMaker
+just do!
